@@ -19,16 +19,12 @@ A modern Android login screen built with **Kotlin** and **XML**, featuring a gla
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/stars/h-hibaaah/Aurora?style=social" alt="Stars"/>
-<img src="https://img.shields.io/github/forks/h-hibaaah/Aurora?style=social" alt="Forks"/>
-<img src="https://img.shields.io/github/last-commit/h-hibaaah/Aurora?color=6a3093&label=last%20commit" alt="Last Commit"/>
-
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="login_ui.png" width="900" alt="Aurora Login Screen" style="border-radius: 16px;"/>
+  <img src="Screenshots/login_ui.png" width="400" alt="Aurora Login Screen" style="border-radius: 16px;"/>
 </div>
 
 <br/>
