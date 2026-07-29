@@ -28,7 +28,6 @@ A modern Android login screen built with **Kotlin** and **XML**, featuring a gla
 <br/>
 
 <div align="center">
-    <img src="splash.png" width="900" alt="Aurora Splash Screen" style="border-radius: 16px;"/>
   <img src="login_ui.png" width="900" alt="Aurora Login Screen" style="border-radius: 16px;"/>
 </div>
 
